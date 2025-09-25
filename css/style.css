@@ -42,10 +42,10 @@ body {
 
 .portfolio-img:hover{
   transform: scale(1.05);
-  background-color: blue; /* The color when hovering */
 }
 
 
 footer a {
   text-decoration: none;
 }
+
